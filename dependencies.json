@@ -1,0 +1,7 @@
+{
+  "@castine/uikit-na": "^1.5.3",
+  "@castine/trade-na": "^2.3.11",
+  "@castine/budget-na": "^2.0.9",
+  "@castine/contract-na": "^2.1.1",
+  "@castine/client": "^1.0.1"
+}
